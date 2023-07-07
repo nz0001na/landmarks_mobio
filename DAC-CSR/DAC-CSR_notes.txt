@@ -1,0 +1,17 @@
+img_list.txt:
+
+record source image path and bbox [x1, y1, width, height].
+
+
+input: 
+Original images, 20481 images
+
+
+
+MTCNN bbox
+
+
+
+output:19 landmarks
+
+[x1, x2,...,x19, y1, y2,.....y19]
