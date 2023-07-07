@@ -1,0 +1,3 @@
+input: MTCNN face detection in 256*256 size;
+output: 19 landmarks.
+(x1,x2,x3,....x19, y1,y2,y3,.....y19)
